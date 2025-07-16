@@ -20,5 +20,5 @@ This repository contains the materials for **Lab 1**, which focuses on foundatio
 - Functions and basic I/O  
 - Introductory algorithmic thinking
 
----
+
 
